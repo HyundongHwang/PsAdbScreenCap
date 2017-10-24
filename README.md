@@ -2,6 +2,7 @@
 
 - [PsAdbScreenCap](#psadbscreencap)
 - [소개](#소개)
+- [설치](#설치)
 - [사용법](#사용법)
 
 <!-- /TOC -->
@@ -41,6 +42,19 @@ Error opening file: /sdcard/aaa.png (Permission denied)
 <br>
 <br>
 <br>
+
+# 설치
+
+- https://www.powershellgallery.com/packages/PsAdbScreenCap
+
+```powershell
+PS> Install-Module -Name PsAdbScreenCap
+```
+
+<br>
+<br>
+<br>
+
 
 # 사용법
 
